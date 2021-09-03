@@ -5,8 +5,8 @@
 ### URLs
 * 日k (e.g. 688599)
 
-	URL: http://38.push2his.eastmoney.com/api/qt/stock/kline/get
-	params = {
+	<p>URL: http://38.push2his.eastmoney.com/api/qt/stock/kline/get</p>
+	<pre><code>params = {
 		'cb'='jQuery112406967554777383818_1630682126830',
 		'secid'='1.688599',
 		'ut'='fa5fd1943c7b386f172d6893dbfba10b',
@@ -17,7 +17,7 @@
 		'end'='20500101',
 		'lmt'='783',
 		'_'='1630682126899'
-	}
+	}</code></pre>
 
 ## 数据存储
 
