@@ -3,8 +3,8 @@
 ## 股票抓取
 
 ### URLs
-* 日k
-e.g. 688599
+* 日k (e.g. 688599)
+
 	URL: http://38.push2his.eastmoney.com/api/qt/stock/kline/get
 	params = {
 		'cb'='jQuery112406967554777383818_1630682126830',
